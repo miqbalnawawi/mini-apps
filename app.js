@@ -5,7 +5,7 @@ App({
     console.info('App onLaunch 2');
   },
   onShow(options) {
-    // 从后台被 scheme 重新打开
+    // 从后台被 scheme2 重新打开
     // options.query == {number:1}
   },
 });
